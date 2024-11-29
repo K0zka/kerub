@@ -55,7 +55,7 @@
 		<kroki.version>1.23</kroki.version>
 		<spring.version>5.2.22.RELEASE</spring.version>
 		<cxf.version>3.5.4</cxf.version>
-		<infinispan.version>8.2.12.Final</infinispan.version>
+		<infinispan.version>11.0.6.Final</infinispan.version>
 		<angularjs.version>1.4.9</angularjs.version>
 		<angular-bootstrap.version>1.1.1-1</angular-bootstrap.version>
 		<slf4j.version>1.7.36</slf4j.version>
