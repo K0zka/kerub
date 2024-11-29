@@ -53,7 +53,7 @@
 		<sonar.exclusions>src/main/webapp</sonar.exclusions>
 		<kotlin.version>1.7.20</kotlin.version>
 		<kroki.version>1.23</kroki.version>
-		<spring.version>5.2.22.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<cxf.version>3.5.4</cxf.version>
 		<infinispan.version>8.2.12.Final</infinispan.version>
 		<angularjs.version>1.4.9</angularjs.version>
